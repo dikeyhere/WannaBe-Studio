@@ -147,14 +147,14 @@ ul li:hover a {
 }
 .about {
 	padding-left: 30px;
-	padding-right: 190px;
+	padding-right: 183px;
 	padding-top: -50px;
 	padding-bottom:100;
 	display: inline-block;
 	background-color:black;
 	margin-top: 30px;
 	margin-left: 80px;
-	margin-right: 80px;
+	margin-right: 70px;
 	margin-bottom: 0px;
 	border-radius: 10px;
 }
